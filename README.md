@@ -1,4 +1,4 @@
-# Password-Generator with python
+# Password-Generator
 python generator password
 
 Just Git clone if you using Kali Linux.

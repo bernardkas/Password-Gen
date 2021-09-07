@@ -8,7 +8,7 @@ print('''   ______   ______    _______   _______ .___________. _______   ______ 
  \______| \______/  |_______/ |_______|    |__|     |_______| \______||__|  |__| 
                                                                                   ''')
 
-chars = "abcdefghijklmnopqrstuvwxyABCDEFGHIJKLMNOPQRSTUVWXY123456789"
+chars = str(input ("Name that you want to Generate: "))
 
 while 1:
     password_len = int(input("Length of password: "))

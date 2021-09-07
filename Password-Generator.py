@@ -9,6 +9,7 @@ print('''   ______   ______    _______   _______ .___________. _______   ______ 
                                                                                   ''')
 
 chars = str(input("Name that you want to Generate: "))
+password_data = ''
 
 while 1:
     password_len = int(input("Length of password: "))

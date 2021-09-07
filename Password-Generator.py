@@ -20,5 +20,5 @@ while 1:
             password = password + password_char
         print("Here is your password: ", password)
         
-         with open("password.txt", "a") as file:
+        with open("password.txt", "a") as file:
             file.write(password + '\n')
